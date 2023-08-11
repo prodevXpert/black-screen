@@ -1,9 +1,10 @@
 import './App.css';
+import { Page404 } from './components';
 
 function App() {
   return (
     <div className="App">
-      <h1 className='text-3xl font-bold underline'>hello</h1>
+      <Page404/>
     </div>
   );
 }
