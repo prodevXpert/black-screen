@@ -1,10 +1,10 @@
 import './App.css';
-import { Page404 } from './components';
+import { Nav } from './layout';
 
 function App() {
   return (
     <div className="App">
-      <Page404/>
+      <Nav/>
     </div>
   );
 }
